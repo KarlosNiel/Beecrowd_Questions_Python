@@ -18,4 +18,5 @@ print("Notas:")
 print(f"""{C_100:.0f} Nota(s) de R$ 100,00\n{C_50:.0f} Nota(s) de R$ 50,00\n{C_20:.0f} Nota(s) de R$ 20,00
 {C_10:.0f} Nota(s) de R$ 10,00\n{C_05:.0f} Nota(s) de R$ 5,00\n{C_02:.0f} Nota(s) de R$ 2,00""")
 print("Moedas:")
-print(f"""{M_1:.0f} moeda(s) de R$ 1.00\n{M_05:.0f} moeda(s) de R$ 0.50\n{M_025:.0f} moeda(s) de R$ 0.25\n{M_010:.0f} moeda(s) de R$ 0.10\n{M_005:.0f} moeda(s) de R$ 0.05\n{M_001:.0f} moeda(s) de R$ 0.01 """)
+print(f"""{M_1:.0f} moeda(s) de R$ 1.00\n{M_05:.0f} moeda(s) de R$ 0.50\n{M_025:.0f} moeda(s) de R$ 0.25
+{M_010:.0f} moeda(s) de R$ 0.10\n{M_005:.0f} moeda(s) de R$ 0.05\n{M_001:.0f} moeda(s) de R$ 0.01 """)
