@@ -5,13 +5,13 @@ def circ(c):
     return 3.14159 * c ** 2
 
 def trape(a, b, c):
-    return (a + b) * c / 2
+    return (a + b)*c / 2
 
 def quad(b):
     return b ** 2
 
 def retan(a, b):
-    return a * b
+    return a*b
 
 a, b, c = map(float, input().split())
 

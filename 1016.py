@@ -1,5 +1,5 @@
 def distancia(a):
-    return a * 2
+    return a*2
 
 Y = int(input())
 

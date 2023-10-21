@@ -1,5 +1,5 @@
 def salario_t(a, b):
-    return a + (b * 0.15)
+    return a + (b*0.15)
 
 nome = input()
 salario_f = float(input())

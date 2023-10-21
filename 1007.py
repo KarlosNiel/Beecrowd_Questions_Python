@@ -1,5 +1,5 @@
 def dif(a, b, c, d):
-    return a * b - c * d
+    return a*b - c*d
 
 A = int(input())
 B = int(input())

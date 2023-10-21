@@ -1,5 +1,5 @@
 def sal(a, b):
-    return a * b
+    return a*b
 
 num_f = int(input())
 horas_t = int(input())

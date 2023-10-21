@@ -1,17 +1,17 @@
 def aumento15(a):
-    return a * 0.15
+    return a*0.15
     
 def aumento12(a):
-    return a * 0.12
+    return a*0.12
     
 def aumento10(a):
-    return a * 0.10
+    return a*0.10
     
 def aumento07(a):
-    return a * 0.07
+    return a*0.07
     
 def aumento04(a):
-    return a * 0.04
+    return a*0.04
     
 x = float(input())
 

@@ -1,5 +1,5 @@
 def litros_G(a, b):
-    return (a / 12) * b
+    return (a / 12)*b
 
 tempos_G = int(input())
 velo_Media = int(input())

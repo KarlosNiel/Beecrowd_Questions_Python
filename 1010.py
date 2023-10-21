@@ -1,5 +1,5 @@
 def v_pagar(a, b, c, d):
-    return a * b + c * d
+    return a*b + c*d
 
 cod, quant, val = input().split()
 cod = int(cod)

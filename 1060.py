@@ -1,11 +1,10 @@
-contador = 0
-contador2 = 0
+L = [-1, -2, -3, 4, 5, 6]
 
-while contador < 6:
-    x = float(input())
-    if x > 0:
-        contador2 += 1
+cont = 0
 
-    contador += 1
+for e in L:
+    if e > 0:
+        cont += 1
+    
+print(f"{cont} valores positivos")
 
-print(f"{contador2} valores positivos")
